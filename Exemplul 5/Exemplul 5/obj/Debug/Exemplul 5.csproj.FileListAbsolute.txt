@@ -1,0 +1,11 @@
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\bin\Debug\Exemplul 5.exe.config
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\bin\Debug\Exemplul 5.exe
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\bin\Debug\Exemplul 5.pdb
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\obj\Debug\Exemplul 5.csproj.AssemblyReference.cache
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\obj\Debug\Exemplul 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\obj\Debug\Exemplul_5.Form1.resources
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\obj\Debug\Exemplul_5.Properties.Resources.resources
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\obj\Debug\Exemplul 5.csproj.GenerateResource.cache
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\obj\Debug\Exemplul 5.csproj.CoreCompileInputs.cache
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\obj\Debug\Exemplul 5.exe
+C:\Users\carar\source\repos\Exemplul 5\Exemplul 5\obj\Debug\Exemplul 5.pdb

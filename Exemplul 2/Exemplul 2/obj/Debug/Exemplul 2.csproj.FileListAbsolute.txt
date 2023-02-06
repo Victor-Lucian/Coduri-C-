@@ -1,0 +1,12 @@
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\bin\Debug\Exemplul 2.exe.config
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\bin\Debug\Exemplul 2.exe
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\bin\Debug\Exemplul 2.pdb
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\obj\Debug\Exemplul 2.csproj.AssemblyReference.cache
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\obj\Debug\Exemplul 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\obj\Debug\Exemplul_2.Form1.resources
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\obj\Debug\Exemplul_2.Form2.resources
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\obj\Debug\Exemplul_2.Properties.Resources.resources
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\obj\Debug\Exemplul 2.csproj.GenerateResource.cache
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\obj\Debug\Exemplul 2.csproj.CoreCompileInputs.cache
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\obj\Debug\Exemplul 2.exe
+C:\Users\carar\source\repos\Exemplul 2\Exemplul 2\obj\Debug\Exemplul 2.pdb
